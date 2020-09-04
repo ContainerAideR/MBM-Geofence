@@ -1,0 +1,134 @@
+https://atlas.microsoft.com/mapData/3a367b34-8bf9-4ac1-a96d-268da3c53ad0/status?api-version=1.0&subscription-key=n7E7zCAguDi57Reo8oa1L83hq9E_dJP5fCrsSvz4Uxo
+
+Spatial Geofence Get API
+
+https://atlas.microsoft.com/spatial/geofence/json?subscription-key=n7E7zCAguDi57Reo8oa1L83hq9E_dJP5fCrsSvz4Uxo&api-version=1.0&deviceId=device_01&udid=c5a5e886-c159-fa02-a8f5-a78c0546326c&lat=40.317044&lon=-74.038294&searchBuffer=5&isAsync=True&mode=EnterAndExit
+
+{
+    "geometries": [
+        {
+            "deviceId": "device_01",
+            "udId": "c5a5e886-c159-fa02-a8f5-a78c0546326c",
+            "geometryId": "1",
+            "distance": -1.8232149174575403,
+            "nearestLat": 40.317037,
+            "nearestLon": -74.038313
+        },
+        {
+            "deviceId": "device_01",
+            "udId": "c5a5e886-c159-fa02-a8f5-a78c0546326c",
+            "geometryId": "2",
+            "distance": -1.091945396801894,
+            "nearestLat": 40.317054,
+            "nearestLon": -74.038297
+        }
+    ],
+    "expiredGeofenceGeometryId": [],
+    "invalidPeriodGeofenceGeometryId": [],
+    "isEventPublished": false
+}
+
+https://atlas.microsoft.com/spatial/geofence/json?subscription-key=n7E7zCAguDi57Reo8oa1L83hq9E_dJP5fCrsSvz4Uxo&api-version=1.0&deviceId=device_01&udId=c5a5e886-c159-fa02-a8f5-a78c0546326c&lat=40.316957&lon=-74.038138&searchBuffer=5&isAsync=True&mode=EnterAndExit
+
+{
+    "geometries": [
+        {
+            "deviceId": "device_01",
+            "udId": "c5a5e886-c159-fa02-a8f5-a78c0546326c",
+            "geometryId": "1",
+            "distance": -999,
+            "nearestLat": 40.316919,
+            "nearestLon": -74.038234
+        },
+        {
+            "deviceId": "device_01",
+            "udId": "c5a5e886-c159-fa02-a8f5-a78c0546326c",
+            "geometryId": "2",
+            "distance": -999,
+            "nearestLat": 40.316911,
+            "nearestLon": -74.038107
+        }
+    ],
+    "expiredGeofenceGeometryId": [],
+    "invalidPeriodGeofenceGeometryId": [],
+    "isEventPublished": true
+}
+
+https://atlas.microsoft.com/spatial/geofence/json?subscription-key=n7E7zCAguDi57Reo8oa1L83hq9E_dJP5fCrsSvz4Uxo&api-version=1.0&deviceId=device_01&udid=c5a5e886-c159-fa02-a8f5-a78c0546326c&lat=40.316988&lon=-74.038027&searchBuffer=5&isAsync=True&mode=EnterAndExit
+
+{
+    "geometries": [
+        {
+            "deviceId": "device_01",
+            "udId": "c5a5e886-c159-fa02-a8f5-a78c0546326c",
+            "geometryId": "1",
+            "distance": -2.2410489981118817,
+            "nearestLat": 40.316997,
+            "nearestLon": -74.038003
+        },
+        {
+            "deviceId": "device_01",
+            "udId": "c5a5e886-c159-fa02-a8f5-a78c0546326c",
+            "geometryId": "2",
+            "distance": -4.5510958643892776,
+            "nearestLat": 40.316952,
+            "nearestLon": -74.038003
+        }
+    ],
+    "expiredGeofenceGeometryId": [],
+    "invalidPeriodGeofenceGeometryId": [],
+    "isEventPublished": false
+}
+
+
+https://atlas.microsoft.com/spatial/geofence/json?subscription-key=n7E7zCAguDi57Reo8oa1L83hq9E_dJP5fCrsSvz4Uxo&api-version=1.0&deviceId=device_01&udid=c5a5e886-c159-fa02-a8f5-a78c0546326c&lat=40.317104&lon=-74.038111&searchBuffer=5&isAsync=True&mode=EnterAndExit
+
+{
+    "geometries": [
+        {
+            "deviceId": "device_01",
+            "udId": "c5a5e886-c159-fa02-a8f5-a78c0546326c",
+            "geometryId": "1",
+            "distance": -2.9123713651804679,
+            "nearestLat": 40.317116,
+            "nearestLon": -74.03808
+        },
+        {
+            "deviceId": "device_01",
+            "udId": "c5a5e886-c159-fa02-a8f5-a78c0546326c",
+            "geometryId": "2",
+            "distance": 2.0670192756854955,
+            "nearestLat": 40.317086,
+            "nearestLon": -74.038106
+        }
+    ],
+    "expiredGeofenceGeometryId": [],
+    "invalidPeriodGeofenceGeometryId": [],
+    "isEventPublished": false
+}
+
+https://atlas.microsoft.com/spatial/geofence/json?subscription-key=n7E7zCAguDi57Reo8oa1L83hq9E_dJP5fCrsSvz4Uxo&api-version=1.0&deviceId=device_01&udid=c5a5e886-c159-fa02-a8f5-a78c0546326c&lat=40.317164&lon=-74.038237&searchBuffer=5&isAsync=True&mode=EnterAndExit
+
+{
+    "geometries": [
+        {
+            "deviceId": "device_01",
+            "udId": "c5a5e886-c159-fa02-a8f5-a78c0546326c",
+            "geometryId": "1",
+            "distance": -999,
+            "nearestLat": 40.317202,
+            "nearestLon": -74.038136
+        },
+        {
+            "deviceId": "device_01",
+            "udId": "c5a5e886-c159-fa02-a8f5-a78c0546326c",
+            "geometryId": "2",
+            "distance": 999,
+            "nearestLat": 40.317068,
+            "nearestLon": -74.038209
+        }
+    ],
+    "expiredGeofenceGeometryId": [],
+    "invalidPeriodGeofenceGeometryId": [],
+    "isEventPublished": true
+}

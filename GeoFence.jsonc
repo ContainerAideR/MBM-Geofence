@@ -1,0 +1,83 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+            [
+                -74.038496,
+                40.317309
+            ],
+            [
+                -74.038049,
+                40.316643
+            ],
+            [
+                -74.037831,
+                40.316731
+            ],
+            [
+                -74.038249,
+                40.317376
+            ],
+            [
+                -74.038496,
+                40.317309
+            ]
+           ]
+         ]
+       },
+       "properties": {
+         "geometryId": "1"
+       }
+     },
+     {
+       "type": "Feature",
+       "geometry": {
+         "type": "Polygon",
+         "coordinates": [
+           [
+            [
+                -74.038318,
+                40.317050
+            ],
+            [
+                -74.038196,
+                40.316876
+            ],
+            [
+                -74.037976,
+                40.316962
+            ],
+            [
+                -74.0378091,
+                40.317136
+            ],
+            [
+                -74.038318,
+                40.317050
+            ]
+           ]
+         ]
+       },
+       "properties": {
+         "geometryId": "2",
+         "validityTime": {
+         "expiredTime": "2022-01-01T00:00:00",
+         "validityPeriod": [
+             {
+               "startTime": "2020-09-04T06:00:00",
+               "endTime": "2020-09-04T24:00:00",
+               "recurrenceType": "Daily",
+               "recurrenceFrequency": 1,
+               "businessDayOnly": true
+             }
+           ]
+         }
+       }
+     }
+   ]
+}
